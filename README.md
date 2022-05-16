@@ -1,5 +1,6 @@
 -------------------
-https://final-b71d0.web.app/#/
+Web deployment:https://final-b71d0.web.app/#/
+Shared firebase test lab to jeremy@aortem.io
 -------------------
 
 # infinite_list
